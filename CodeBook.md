@@ -1,10 +1,10 @@
-X_test: raw data of 561 measurements from test subjects
+**X_test:** raw data of 561 measurements from test subjects
 
-y_test: numbered factors assigned to different activity types, for the test group, with same row number as X_test
+**y_test:** numbered factors assigned to different activity types, for the test group, with same row number as X_test
 
-subject_test: subject numbers for the test group, with same row number as X_test
+**subject_test:** subject numbers for the test group, with same row number as X_test
 
-features: abbreviated names of the 561 measurements
+**features:** abbreviated names of the 561 measurements
 
 X_train: raw data of 561 measurements from training subjects
 
