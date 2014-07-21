@@ -3,7 +3,7 @@ GetCleanData
 
 Coursera Course Project for Getting and Cleaning Data
 
-The **run_analysis.R** script was written to import and clean data from the Samsung smart phone activity monitoring experiments. Data was imported from the test and the training set. The script can be devided into the following steps. These steps were also written as annotations in the .R code. Descriptions of variables and data sets can be found in CodeBook.R.
+The **run_analysis.R** script was written to import and clean data from the Samsung smart phone activity monitoring experiments. **Data needs to be in a folder called "UCI HAR Dataset" under the working directory.**  The script can be devided into the following steps. These steps were also written as annotations in the .R code. Descriptions of variables and data sets can be found in CodeBook.R.
 
 **Step 0:** Load relevant data
 
